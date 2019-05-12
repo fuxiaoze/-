@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<h1>信息管理与信息系统2019年度课程表：</h1>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>fzs</title>
+    <style>
+        table,
+        th,
+        td {
+
+            border: 1px solid rgb(221, 16, 16);
+            height: 5px;
+            width: 5px;
+        }
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
+    <script src="main.js"></script>
+</head>
+
+<body>
+    <table style="width: 1000px; height: 1000px;margin: 20px auto 50px;">
+
+        <tr>
+            <th rowspan="5">上午</th>
+            <th></th>
+            <th>星期一</th>
+            <th>星期二</th>
+            <th>星期三</th>
+            <th>星期四</th>
+            <th>星期五</th>
+            <th>星期六</th>
+            <th>星期日</th>
+        </tr>
+        <tr>
+            <th>第一节（8：20—9：05）</th>
+            <th style="background-color:yellowgreen" ;>web应用开发技术_01(西区第一公共教学楼C411) </th>
+            <th style="background-color:turquoise" ;>大学英语四级（A）_64(西区第一公共教学楼C221)</th>
+            <th style="background-color:yellow" ;>管理信息系统_02(西区第一公共教学楼C105)</th>
+            <th style="background-color:brown" ;>数据库原理及应用_01(西区第一公共教学楼B405)
+                运营管理_02(西区第一公共教学楼B405) </th>
+            <th style="background-color:turquoise" ;>大学英语四级（A）_64(西区外语学院楼219) </th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>第二节(09:15-10:00)</th>
+            <th style="background-color:yellowgreen" ;>web应用开发技术_01(西区第一公共教学楼C411) </th>
+            <th style="background-color:turquoise" ;>大学英语四级（A）_64(西区第一公共教学楼C221)</th>
+            <th style="background-color:yellow" ;>管理信息系统_02(西区第一公共教学楼C105)</th>
+            <th style="background-color:brown" ;>数据库原理及应用_01(西区第一公共教学楼B405)
+                运营管理_02(西区第一公共教学楼B405) </th>
+            <th style="background-color:turquoise" ;>大学英语四级（A）_64(西区外语学院楼219) </th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>第三节(10:20-11:05)</th>
+            <th style="background-color:darkorchid" ;>毛泽东思想与中国特色社会主义理论体系概论_13(西区第一公共教学楼A120) </th>
+            <th style="background-color:lightgrey" ;> 管理科学基础_01(西区第一公共教学楼C411</th>
+            <th style="background-color:darkorchid" ;> 毛泽东思想与中国特色社会主义理论体系概论_13(西区第一公共教学楼A120) </th>
+            <th style="background-color:lightgrey" ;>管理科学基础_01(西区第一公共教学楼C411)</th>
+            <th style="background-color:rgb(231, 220, 216)" ;> 运营管理_02(西区第一公共教学楼B405) </th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>第四节(11:15-12:00)</th>
+            <th style="background-color:darkorchid" ;>毛泽东思想与中国特色社会主义理论体系概论_13(西区第一公共教学楼A120) </th>
+            <th style="background-color:lightgrey" ;> 管理科学基础_01(西区第一公共教学楼C411</th>
+            <th style="background-color:darkorchid" ;> 毛泽东思想与中国特色社会主义理论体系概论_13(西区第一公共教学楼A120) </th>
+            <th style="background-color:lightgrey" ;>管理科学基础_01(西区第一公共教学楼C411)</th>
+            <th style="background-color:rgb(231, 220, 216)" ;> 运营管理_02(西区第一公共教学楼B405) </th>
+            <th></th>
+            <th></th>
+        </tr>
+
+        <tr>
+            <td colspan="9" style=" text-align: center; ">午休</td>
+
+
+
+        </tr>
+        <tr>
+            <th rowspan="4">下午</th>
+
+            <th>第五节(14:00-14:45)</th>
+            <th style="background-color:yellow" ;>管理信息系统_02(西区第一公共教学楼C105)</th>
+            <th style="background-color:rgb(239, 122, 255)" ;>形势与政策2_41(西区第一公共教学楼C123) </th>
+            <th style="background-color:rgb(255, 153, 122)" ;>会计学_01(西区第一公共教学楼B101) </th>
+            <th style="background-color:rgb(240, 166, 166)" ;>乒乓球课（健身馆）</th>
+            <th style="background-color:darkorchid" ;> 毛泽东思想与中国特色社会主义理论体系概论_13(西区第一公共教学楼A120) </th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+
+            <th>第六节(14:55-15:40)</th>
+            <th style="background-color:yellow" ;>管理信息系统_02(西区第一公共教学楼C105)</th>
+            <th style="background-color:rgb(239, 122, 255)" ;> 形势与政策2_41(西区第一公共教学楼C123) </th>
+            <th style="background-color:rgb(255, 153, 122)" ;> 会计学_01(西区第一公共教学楼B101) </th>
+            <th style="background-color:rgb(240, 166, 166)" ;>乒乓球课（健身馆）</th>
+            <th style="background-color:darkorchid" ;> 毛泽东思想与中国特色社会主义理论体系概论_13(西区第一公共教学楼A120) </th>
+            <th></th>
+            <th></th>
+        </tr>
+
+
+        <tr>
+
+            <th>第七节(16:00-16:45)</th>
+            <th style="background-color:rgb(12, 128, 93)" ;>电子商务_01(西区第一公共教学楼B303) </th>
+            <th style="background-color:brown" ;>数据库原理及应用_01(西区第一公共教学楼C109) </th>
+            <th></th>
+            <th style="background-color:rgb(255, 153, 122)" ;>会计学_01(西区第一公共教学楼B101) </th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+
+            <th>第八节(16:55-17:40)</th>
+            <th style="background-color:rgb(12, 128, 93)" ;>电子商务_01(西区第一公共教学楼B303) </th>
+            <th style="background-color:brown" ;>数据库原理及应用_01(西区第一公共教学楼C109) </th>
+            <th></th>
+            <th style="background-color:rgb(255, 153, 122)" ;>会计学_01(西区第一公共教学楼B101) </th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <td colspan="9" style=" text-align: center; ">晚饭</td>
+
+        </tr>
+        <tr>
+            <th rowspan="2">晚上</th>
+            <th>第九节(18:30-19:15)</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+
+            <th>第十节(19:25-20:10)</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+
+
+</body>
+
+</html>
